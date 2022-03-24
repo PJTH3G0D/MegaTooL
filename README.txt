@@ -1,4 +1,4 @@
-                         === Seo Mega Tool ===
+                                                         === Seo Mega Tool ===
 
 Contributors: Cellphonemega LLc (Your Name Here)
 Donate link: https://cellphonem3ga.com
@@ -10,7 +10,7 @@ License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
  
-                                 == Description ==
+                                                          == Description ==
 
 This is one the best tools you will find on the internet today. It was in development and is now ready.
 SeoMegaTool™ Automates the important time consuming business task. Its an amazing breakthrough tool developed by Cellphonemega LLc.
@@ -29,7 +29,7 @@ A few feature of the plugin:
    Talented developers from all around the world have contributed to give the public this goldmine.
    Our ultimate goal is to push business in the USA to advance at an alarming rate this is done by doing important task for you.
 
-== Installation ==
+                                                        == Installation ==
 
 This plugin is designed to be easy to use, plug-n-play.
 
@@ -38,20 +38,24 @@ This plugin is designed to be easy to use, plug-n-play.
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Navigate to the options in the admin panel and go from there.
 
-== Frequently Asked Questions ==
+                                                 == Frequently Asked Questions ==
 
-= Does this get me banned? =
+?? Does this get me banned? ??
 
-No! This has been tested with modern automation techniques as to avoid bot detections and spam detections.
-Our tool more or less imitates a real idividual and performs its task.
+* No! This has been tested with modern automation techniques as to avoid bot detections and spam detections.
+Our tool more or less imitates a real idividual and performs its task.*
+...............................................................................................................
 
-= What about facebook? =
-We use our own accounts and those of partners who wish to participate in our programs.
-Most social media advertisments are carried out by real people who chose to participate in our AdBomber™ program.
+?? What about facebook ??
 
-= I've noticed a boost in my Adsense Revenue, is this safe? =
- We have a large amount of participants in our AdBomber program, some will be required to click on your ad 
+* We use our own accounts and those of partners who wish to participate in our programs.
+Most social media advertisments are carried out by real people who chose to participate in our AdBomber™ program. *
+..............................................................................................................
+
+?? I've noticed a boost in my Adsense Revenue, is this safe ??
+
+ ** We have a large amount of participants in our AdBomber program, some will be required to click on your ad 
  if you participate as an advertiser. This method is limited to and will not exceed only $25 generated dollars per 24hrs.
- this plugin disables adsense after it has collected its max amount. Do Not Re-enable it this is to avoid penalties from google.
+ this plugin disables adsense after it has collected its max amount. Do Not Re-enable it this is to avoid penalties from google. **
 
-                     == ENJOY THIS FUTURISITIC RELEASE ==
+                                                  == ENJOY THIS FUTURISITIC RELEASE ==
