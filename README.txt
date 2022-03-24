@@ -1,114 +1,57 @@
-=== Plugin Name ===
-Contributors: (this should be a list of wordpress.org userid's)
+                         === Seo Mega Tool ===
+
+Contributors: Cellphonemega LLc (Your Name Here)
 Donate link: https://cellphonem3ga.com
-Tags: comments, spam
-Requires at least: 3.0.1
-Tested up to: 3.4
-Stable tag: 4.3
+Tags: Best Automation, Google Ranking, Youtube View increase, Boost Business
+Requires at least: 1.0.0
+Tested up to: 2.1b
+Stable tag: 1.0.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Here is a short description of the plugin.  This should be no more than 150 characters.  No markup here.
+ 
+                                 == Description ==
 
-== Description ==
+This is one the best tools you will find on the internet today. It was in development and is now ready.
+SeoMegaTool™ Automates the important time consuming business task. Its an amazing breakthrough tool developed by Cellphonemega LLc.
+Hosing a vast array of tools and features to grow your business for you, it literally does all the work.
 
-This is the long description.  No limit, and you can use Markdown (as well as in the following sections).
+A few feature of the plugin:
 
-For backwards compatibility, if this section is missing, the full length of the short description will be used, and
-Markdown parsed.
+*   "Business Listings" - Automate your business listings to over 80+ directories 
+*   "Search Engine Listings" - Automate your brand to over 200+ search engines and be found everywhere
+*   "Social Media Automation" - AdBomber™ automates advertising for you, it will go out and advertise for you while you rest or work.
+*   "Automatically fill out forms" - its the highest version of OCR combined with POST methods you wont be disappointed.
+*   "Auto Backlinks" - The hardest part about growing an online presence is backlinking. Let Megatool do it for you!
 
-A few notes about the sections above:
-
-*   "Contributors" is a comma separated list of wp.org/wp-plugins.org usernames
-*   "Tags" is a comma separated list of tags that apply to the plugin
-*   "Requires at least" is the lowest version that the plugin will work on
-*   "Tested up to" is the highest version that you've *successfully used to test the plugin*. Note that it might work on
-higher versions... this is just the highest one you've verified.
-*   Stable tag should indicate the Subversion "tag" of the latest stable version, or "trunk," if you use `/trunk/` for
-stable.
-
-    Note that the `readme.txt` of the stable tag is the one that is considered the defining one for the plugin, so
-if the `/trunk/readme.txt` file says that the stable tag is `4.3`, then it is `/tags/4.3/readme.txt` that'll be used
-for displaying information about the plugin.  In this situation, the only thing considered from the trunk `readme.txt`
-is the stable tag pointer.  Thus, if you develop in trunk, you can update the trunk `readme.txt` to reflect changes in
-your in-development version, without having that information incorrectly disclosed about the current stable version
-that lacks those changes -- as long as the trunk's `readme.txt` points to the correct stable tag.
-
-    If no stable tag is provided, it is assumed that trunk is stable, but you should specify "trunk" if that's where
-you put the stable version, in order to eliminate any doubt.
+   A large amount of research was done to provide you this amazing tool. almost 3 years in the drafting stage.
+   Megatool combines some of the most powerful aPIs and javascript scripts to provide you the best experience and service for your money.
+   Talented developers from all around the world have contributed to give the public this goldmine.
+   Our ultimate goal is to push business in the USA to advance at an alarming rate this is done by doing important task for you.
 
 == Installation ==
 
-This section describes how to install the plugin and get it working.
+This plugin is designed to be easy to use, plug-n-play.
 
-e.g.
 
 1. Upload `megatool.php` to the `/wp-content/plugins/` directory
-1. Activate the plugin through the 'Plugins' menu in WordPress
-1. Place `<?php do_action('plugin_name_hook'); ?>` in your templates
+2. Activate the plugin through the 'Plugins' menu in WordPress
+3. Navigate to the options in the admin panel and go from there.
 
 == Frequently Asked Questions ==
 
-= A question that someone might have =
+= Does this get me banned? =
 
-An answer to that question.
+No! This has been tested with modern automation techniques as to avoid bot detections and spam detections.
+Our tool more or less imitates a real idividual and performs its task.
 
-= What about foo bar? =
+= What about facebook? =
+We use our own accounts and those of partners who wish to participate in our programs.
+Most social media advertisments are carried out by real people who chose to participate in our AdBomber™ program.
 
-Answer to foo bar dilemma.
+= I've noticed a boost in my Adsense Revenue, is this safe? =
+ We have a large amount of participants in our AdBomber program, some will be required to click on your ad 
+ if you participate as an advertiser. This method is limited to and will not exceed only $25 generated dollars per 24hrs.
+ this plugin disables adsense after it has collected its max amount. Do Not Re-enable it this is to avoid penalties from google.
 
-== Screenshots ==
-
-1. This screen shot description corresponds to screenshot-1.(png|jpg|jpeg|gif). Note that the screenshot is taken from
-the /assets directory or the directory that contains the stable readme.txt (tags or trunk). Screenshots in the /assets
-directory take precedence. For example, `/assets/screenshot-1.png` would win over `/tags/4.3/screenshot-1.png`
-(or jpg, jpeg, gif).
-2. This is the second screen shot
-
-== Changelog ==
-
-= 1.0 =
-* A change since the previous version.
-* Another change.
-
-= 0.5 =
-* List versions from most recent at top to oldest at bottom.
-
-== Upgrade Notice ==
-
-= 1.0 =
-Upgrade notices describe the reason a user should upgrade.  No more than 300 characters.
-
-= 0.5 =
-This version fixes a security related bug.  Upgrade immediately.
-
-== Arbitrary section ==
-
-You may provide arbitrary sections, in the same format as the ones above.  This may be of use for extremely complicated
-plugins where more information needs to be conveyed that doesn't fit into the categories of "description" or
-"installation."  Arbitrary sections will be shown below the built-in sections outlined above.
-
-== A brief Markdown Example ==
-
-Ordered list:
-
-1. Some feature
-1. Another feature
-1. Something else about the plugin
-
-Unordered list:
-
-* something
-* something else
-* third thing
-
-Here's a link to [WordPress](http://wordpress.org/ "Your favorite software") and one to [Markdown's Syntax Documentation][markdown syntax].
-Titles are optional, naturally.
-
-[markdown syntax]: http://daringfireball.net/projects/markdown/syntax
-            "Markdown is what the parser uses to process much of the readme file"
-
-Markdown uses email style notation for blockquotes and I've been told:
-> Asterisks for *emphasis*. Double it up  for **strong**.
-
-`<?php code(); // goes in backticks ?>`
+                     == ENJOY THIS FUTURISITIC RELEASE ==
