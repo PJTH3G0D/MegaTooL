@@ -18,11 +18,19 @@ Hosing a vast array of tools and features to grow your business for you, it lite
 
 A few features of the plugin:
 
-*   "Business Listings" - Automate your business listings to over 80+ directories 
-*   "Search Engine Listings" - Automate your brand to over 200+ search engines and be found everywhere
-*   "Social Media Automation" - AdBomber™ automates advertising for you, it will go out and advertise for you while you rest or work.
-*   "Automatically fill out forms" - its the highest version of OCR combined with POST methods you wont be disappointed.
-*   "Auto Backlinks" - The hardest part about growing an online presence is backlinking. Let Megatool do it for you!
+*"Business Listings" - Automate your business listings to over 80+ directories 
+
+
+*"Search Engine Listings" - Automate your brand to over 200+ search engines and be found everywhere
+
+
+*"Social Media Automation" - AdBomber™ automates advertising for you, it will go out and advertise for you while you rest or work.
+
+
+*"Automatically fill out forms" - its the highest version of OCR combined with POST methods you wont be disappointed.
+
+
+*"Auto Backlinks" - The hardest part about growing an online presence is backlinking. Let Megatool do it for you!
 
    A large amount of research was done to provide you this amazing tool. almost 3 years in the drafting stage.
    Megatool combines some of the most powerful aPIs and javascript scripts to provide you the best experience and service for your money.
