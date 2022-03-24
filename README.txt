@@ -16,7 +16,7 @@ This is one the best tools you will find on the internet today. It was in develo
 SeoMegaTool™ Automates the important time consuming business task. Its an amazing breakthrough tool developed by Cellphonemega LLc.
 Hosing a vast array of tools and features to grow your business for you, it literally does all the work.
 
-A few feature of the plugin:
+A few features of the plugin:
 
 *   "Business Listings" - Automate your business listings to over 80+ directories 
 *   "Search Engine Listings" - Automate your brand to over 200+ search engines and be found everywhere
